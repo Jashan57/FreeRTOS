@@ -35,7 +35,6 @@
     link: http://www.freertos.org/a00114.html
 
     1 tab == 4 spaces!
-
     ***************************************************************************
      *                                                                       *
      *    Having a problem?  Start by reading the FAQ "My application does   *
